@@ -17,6 +17,7 @@
     - A webserver (apache2/nginx)
     - Go runtime (1.12.x)
     - Composer
+    - A DB server (MariaDB, MySQL, Postgre, any other PDO/Laravel-compatible server)
 
 ## Part 1 - server-php
 
